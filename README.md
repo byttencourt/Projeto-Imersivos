@@ -7,7 +7,7 @@
 Com objetivo de desenvolver um Servidor de Roleplay na Plataforma FiveM - GTA5 foi criado o Projeto Imersivos.
 
 # Características
-Utilizando a Framework vRP/Creative a base foi desenvolvida com propósito de ser intuitiva e tornar a interação do Jogador com o Universo FiveM prática e descomplicada.
+Utilizando a Framework vRP/Creative a base foi desenvolvida com propósito de ser intuitiva e tornar a interação do Jogador com o Universo FiveM de forma prática e descomplicada.
 
 Diversas atualizações e melhorias foram aplicadas com a utilização de Soluções disponíveis pela Comunidade do FiveM de forma Gratuita.
 
