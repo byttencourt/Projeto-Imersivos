@@ -19,6 +19,7 @@ v1.0
 - Adicionado /spotify para usar dentro do carro.
 - Adicionado som ambiente musicas a Bennys e Vanilla.
 - Fixado Sistema de Fome e Sede, antes qualquer comida ou bebida enchia 100%. Quando se alimentar irá saciar a fome ou sede conforme alimento ou bebida consumida.
+
 v1.1
 - Sincronização dos status de fome e sede, ao sair da cidade e retornar os valores estarão no mesmo lugar e não cheios como antes acontecia.
 - Novos alimentos disponíveis nas lanchonetes. Dishes and Desserts - Uwu café (Estes tem Maiores vantagens em relação aos alimentos convencionais que são vendidos nas lojinhas, matam a sede e a Fome de forma mais eficaz e tmbm podem diminuir o stress). 
@@ -32,6 +33,7 @@ v1.1
 - Modificado as Funções de Pagamento de Taxas, Venda e Transferência de veículos para Garagem.
 - Removida Aba Possuídos do Tablet.
 - Adicionado Script Suspensão a AR (Tecla PageDown Pode ser ajustado a Altura e Largura das Rodas para evitar Raspar no paralamas). Acesso Exclusivo aos Premiums (Vip).
+
 v1.2
 - Ajustado a durabilidade de alguns itens que quebravam rapidamente.
 - Adicionado Roubo de Parquímetros.
