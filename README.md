@@ -21,7 +21,7 @@ v1.0
 - Fixado Sistema de Fome e Sede, antes qualquer comida ou bebida enchia 100%. Quando se alimentar irá saciar a fome ou sede conforme alimento ou bebida consumida.
 
 v1.1
-- Sincronização dos status de fome e sede, ao sair da cidade e retornar os valores estarão no mesmo lugar e não cheios como antes acontecia.
+- Sincronização dos status de fome e sede, com Personagem.
 - Novos alimentos disponíveis nas lanchonetes. Dishes and Desserts - Uwu café (Estes tem Maiores vantagens em relação aos alimentos convencionais que são vendidos nas lojinhas, matam a sede e a Fome de forma mais eficaz e tmbm podem diminuir o stress). 
 - Adicionado Notify no canto direito da tela, para facilitar anûncios da prefeitura.
 - Adicionados Alertas sonoros as Ocorrências.
