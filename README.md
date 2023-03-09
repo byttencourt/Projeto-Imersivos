@@ -1,7 +1,7 @@
 <div align="center">
       <h1> <img src="https://cdn.discordapp.com/attachments/976129252359557170/978699430645596230/logo4.png" width="80px"><br/>Projeto Imersivos </h1>
      </div>
-<p align="center"> <a href="discord.gg/fN8DM9brCN" target="_blank"><img alt="" src="https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white" style="vertical-align:center" /></a> <a href="imersivosrp" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-E4405F?style=normal&logo=instagram&logoColor=white" style="vertical-align:center" /></a> <a href="}" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" /></a> </p>
+<p align="center"> <a href="discord.gg/fN8DM9brCN" target="_blank"><img alt="" src="https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white" style="vertical-align:center" /></a> <a href="imersivosrp" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-E4405F?style=normal&logo=instagram&logoColor=white"  </p>
 
 # Description
 Com objetivo de desenvolver um Servidor de Roleplay na Plataforma FiveM - GTA5 foi criado o Projeto Imersivos.
