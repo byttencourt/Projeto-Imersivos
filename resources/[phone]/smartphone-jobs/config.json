@@ -1,0 +1,271 @@
+{
+  "locale": "pt-BR",
+  "currency": "BRL",
+  "uber": {
+    "pricing": {
+      "base": 8,
+      "per_km": 100
+    },
+    "common_places": [
+      { "name": "Praça", "location": [156.9, -1012.25, 29.4] },
+      { "name": "Hospital", "location": [1151.78,-1527.62,34.85] },
+      { "name": "Mecânica", "location": [828.04,-995.56,26.54] },
+      { "name": "Departamento Policial", "location": [-909.42,-2043.45,9.3] }
+    ],
+    "cancelable": 1
+  },
+  "food": {
+    "categories": [
+      { "id": 1, "name": "Restaurantes" },
+      { "id": 2, "name": "Bebidas" },
+      { "id": 3, "name": "Farmácias" }
+    ],
+    "stores": [
+      {
+        "id": 1,
+        "name": "7 Eleven 24h",
+        "icon": "https://ih1.redbubble.net/image.2320262164.4775/st,small,507x507-pad,600x600,f8f8f8.jpg",
+        "category_id": 1,
+        "price": 1,
+        "fee": 150,
+        "location": [29.0, -1342.89, 28.53],
+        "products": [
+          
+          {
+            "id": 1,
+            "name": "Coca-cola",
+            "description": "",
+            "price": 15,
+            "section": "Bebidas",
+            "image": "https://www.hotdogdomarcio.com.br/wp-content/uploads/2020/04/coca-cola-sombra-02.png",
+            "items": {
+              "cola": 1
+            }
+          },
+          {
+            "id": 2,
+            "name": "Sprite",
+            "description": "",
+            "price": 15,
+            "section": "Bebidas",
+            "image": "https://www.paodeacucar.com/img/uploads/1/904/11840904.jpg",
+            "items": {
+              "soda": 1
+            }
+          },
+
+          {
+            "id": 3,
+            "name": "Chocolate",
+            "description": "",
+            "price": 15,
+            "section": "Doces",
+            "image": "https://cdn.jesteriruka.dev/cactus/items/chocolate.png",
+            "items": {
+              "chocolate": 1
+            }
+          },
+          {
+            "id": 4,
+            "name": "Água",
+            "description": "",
+            "price": 30,
+            "section": "Bebidas",
+            "image": "https://cdn.jesteriruka.dev/cactus/items/water.png",
+            "items": {
+              "water": 1
+            }
+          },
+          {
+            "id": 5,
+            "name": "Energético",
+            "description": "",
+            "price": 15,
+            "section": "Bebidas",
+            "image": "https://cdn.jesteriruka.dev/cactus/items/energetic.png",
+            "items": {
+              "energetic": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "PizzaThis",
+        "icon": "https://i.imgur.com/Zq5kmap.png",
+        "category_id": 1,
+        "price": 1,
+        "fee": 170,
+        "location": [810.26,-752.87,25.80],
+        "products": [
+          {
+            "id": 6,
+            "name": "Pizza de Mussarela",
+            "description": "massa pizza, queijo, molho e oregano.",
+            "price": 100,
+            "section": "Lanches",
+            "image": "https://i.imgur.com/EFGaTum.png",
+            "items": {
+              "pizza": 1
+            }
+          },
+          {
+            "id": 7,
+            "name": "Pizza de Champignon",
+            "description": "massa pizza, champignon, cogumelo, queijo, molho e oregano.",
+            "price": 100,
+            "section": "Lanches",
+            "image": "https://i.imgur.com/J9tTS0F.png",
+            "items": {
+              "pizza2": 1
+            }
+          },
+          {
+            "id": 8,
+            "name": "Água",
+            "description": "",
+            "price": 30,
+            "section": "Bebidas",
+            "image": "https://cdn.jesteriruka.dev/cactus/items/water.png",
+            "items": {
+              "water": 1
+            }
+          },
+          {
+            "id": 9,
+            "name": "Coca-cola",
+            "description": "",
+            "price": 15,
+            "section": "Bebidas",
+            "image": "https://www.hotdogdomarcio.com.br/wp-content/uploads/2020/04/coca-cola-sombra-02.png",
+            "items": {
+              "cola": 1
+            }
+          },
+          {
+            "id": 10,
+            "name": "Sprite",
+            "description": "",
+            "price": 15,
+            "section": "Bebidas",
+            "image": "https://www.paodeacucar.com/img/uploads/1/904/11840904.jpg",
+            "items": {
+              "soda": 1
+            }
+          }
+        ] 
+      },
+      
+      {
+        "id": 3,
+        "name": "Burgershot",
+        "icon": "https://ih1.redbubble.net/image.2293502912.2530/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+        "category_id": 1,
+        "price": 1,
+        "fee": 150,
+        "location": [-1192.15, -894.6, 13.03],
+        "products": [
+          {
+            "id": 11,
+            "name": "Hamburger Artesanal",
+            "description": "Pão, hambúrguer, queijo cheddar, picles e ketckup.",
+            "price": 25,
+            "section": "Lanches",
+            "image": "https://d3sn2rlrwxy0ce.cloudfront.net/_800x600_crop_center-center_none/cheeseburger-thumb_2021-09-16-134559_ypzs.png?mtime=20210916094600&focal=none&tmtime=20210916095008",
+            "items": {
+              "hamburger2": 1
+            }
+          },
+          {
+            "id": 8,
+            "name": "Água",
+            "description": "",
+            "price": 30,
+            "section": "Bebidas",
+            "image": "https://cdn.jesteriruka.dev/cactus/items/water.png",
+            "items": {
+              "water": 1
+            }
+          },
+          {
+            "id": 9,
+            "name": "Coca-cola",
+            "description": "",
+            "price": 15,
+            "section": "Bebidas",
+            "image": "https://www.hotdogdomarcio.com.br/wp-content/uploads/2020/04/coca-cola-sombra-02.png",
+            "items": {
+              "cola": 1
+            }
+          },
+          {
+            "id": 10,
+            "name": "Sprite",
+            "description": "",
+            "price": 15,
+            "section": "Bebidas",
+            "image": "https://www.paodeacucar.com/img/uploads/1/904/11840904.jpg",
+            "items": {
+              "soda": 1
+            }
+          } 
+        ] 
+      },
+      {
+        "id": 4,
+        "name": "Farmácia",
+        "icon": "https://i.imgur.com/vZDkPwc.png",
+        "category_id": 1,
+        "price": 1,
+        "fee": 170,
+        "location": [122.43,12.9,67.29],
+        "products": [
+          {
+            "id": 14,
+            "name": "Adrenalina",
+            "description": "Utilizado para reanimação quando não há Paramédicos em Serviço.",
+            "price": 975,
+            "section": "Medicamentos",
+            "image": "https://i.imgur.com/1JySAis.png",
+            "items": {
+              "adrenaline": 1
+            }
+          },
+          {
+            "id": 15,
+            "name": "Analgesico",
+            "description": "utilizado para tratamento de dor em pequenos casos.",
+            "price": 125,
+            "section": "Medicamentos",
+            "image": "https://i.imgur.com/gdY13yO.png",
+            "items": {
+              "analgesic": 1
+            }
+          },
+          {
+            "id": 16,
+            "name": "Gaze",
+            "description": "Atadura para sangramentos.",
+            "price": 225,
+            "section": "Medicamentos",
+            "image": "https://i.imgur.com/UgtGphG.png",
+            "items": {
+              "gauze": 1
+            }
+          },
+          {
+            "id": 17,
+            "name": "Sinkalmy",
+            "description": "Combate dores de cabeça.",
+            "price": 375,
+            "section": "Medicamentos",
+            "image": "https://i.imgur.com/KuMUuWs.png",
+            "items": {
+              "sinkalmy": 1
+            }
+          }  
+        ] 
+      }    
+    ]
+  }
+}

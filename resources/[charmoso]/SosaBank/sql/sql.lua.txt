@@ -1,0 +1,16 @@
+CREATE TABLE SosaBank_transactions    (
+    id int(11) NOT NULL AUTO_INCREMENT,
+    receiver_identifier varchar(255) NOT NULL,
+    receiver_name varchar(255) NOT NULL,
+    sender_identifier varchar(255) NOT NULL,
+    sender_name varchar(255) NOT NULL,
+    date varchar(255) NOT NULL,
+    value int(50) NOT NULL,
+    type varchar(255) NOT NULL,
+    PRIMARY KEY (id)
+);
+
+
+
+
+Mudar no client

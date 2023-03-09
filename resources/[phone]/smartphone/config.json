@@ -1,0 +1,79 @@
+{
+    "token": "",
+    "client": {
+        "bankType": "fleeca",
+        "uploadServer": "https://discord.com/api/webhooks/1000475712475627630/ZCq149dcTMEvj4RraXqEF3vTubNhMLXvszTPEuYQy6C9cC_-GU15kvPlmC5QboHUWKCz",
+        "allowUnsafeURL": true,
+        "videoServer": "ws://191.96.78.187:8080/",
+        "case": "s20",
+        "isAndroid": true,
+        "apps": {
+            "calculator": "https://celularautenticacaofivem.xyz/imagens/calculator.webp",
+            "notes": "https://celularautenticacaofivem.xyz/imagens/notes.webp",
+            "settings": "https://celularautenticacaofivem.xyz/imagens/settings.webp",
+            "contacts": "https://celularautenticacaofivem.xyz/imagens/contacts.webp",
+            "sms": "https://celularautenticacaofivem.xyz/imagens/sms.webp",
+            "gallery": "https://celularautenticacaofivem.xyz/imagens/gallery.webp",
+            "phone": "https://celularautenticacaofivem.xyz/imagens/phone.webp",
+            "facetime": "https://celularautenticacaofivem.xyz/imagens/facetime.webp"
+            
+            },
+        "useGameClock": true,
+        "phone_template": "XXX-XXX",
+        "backgroundURL": "",
+        "disabledApps": [
+            "paypal",
+            "twitter"
+        ]
+    },
+    "exclusive": {
+        "weazel": {
+            "tags": [
+                "Noticias"
+            ],
+            "permission": "Admin"
+        },
+        "casino": {
+            "maxBet": 1000
+        }
+    },
+    "call_mode": "pma-voice",
+    "webhookURL": "https://discord.com/api/webhooks/1000475521223774258/ZyBUrXA0JKl2YHFS1y3p1UlMvR7ac5JlZIFhs12VPcAMcwdqNw11UxxHdi3P2WHEAJ5k",
+    "instagram_verify": "Admin",
+    "weazel_tags": "Admin",
+    "instagram_accounts": {
+        "*": 1,
+        "vip.permissao": 2
+    },
+    "moderator": "Admin",
+    "item": "cellphone",
+    "services": [
+        {
+            "name": "Policia",
+            "number": "190",
+            "permission": "Police"
+        },
+        {
+            "name": "Paramédico",
+            "number": "192",
+            "permission": "Paramedic"
+        },
+        {
+            "name": "Bennys Motorworks",
+            "number": "0800 042",
+            "permission": "Mechanic"
+        },
+        {
+            "name": "Los Santos Customs",
+            "number": "0800 043",
+            "permission": "LosSantos"
+        },
+        {
+            "name": "Taxi",
+            "number": "0800 075",
+            "permission": "Taxi"
+        }
+    ],
+    "base": "creative_v5",
+    "channel": "stable"
+}

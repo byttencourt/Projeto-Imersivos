@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.28b214dc.css",
+    "main.js": "./static/js/main.940c05eb.js",
+    "static/media/uber_ping.mp3": "./static/media/uber_ping.14c3cf0131f2326c4837.mp3",
+    "static/media/UberMoveTextBold.otf": "./static/media/UberMoveTextBold.8792b3da2bfe9426be19.otf",
+    "static/media/UberMoveTextMedium.otf": "./static/media/UberMoveTextMedium.aca250f24de4d45fb535.otf",
+    "static/media/UberMoveTextLight.otf": "./static/media/UberMoveTextLight.37ca29ecb2fe79334d73.otf",
+    "static/media/UberMoveTextRegular.otf": "./static/media/UberMoveTextRegular.8d1771b747e4b6ed2a6d.otf",
+    "static/media/background.jpg": "./static/media/background.c4eb5af33194a4c9da9d.jpg",
+    "static/media/employee.png": "./static/media/employee.99f6ebff6a88ff108831.png",
+    "static/media/SulSans-Regular.woff2": "./static/media/SulSans-Regular.3ce44d0cce396f7d5202.woff2",
+    "static/media/SulSans-Bold.woff2": "./static/media/SulSans-Bold.609785d9409835f320b8.woff2",
+    "static/media/SulSans-Light.woff2": "./static/media/SulSans-Light.d8fb442ac7e30065d069.woff2",
+    "static/media/SulSans-Medium.woff2": "./static/media/SulSans-Medium.3cab511b06e3886c2b13.woff2",
+    "static/media/uber_car.png": "./static/media/uber_car.c921face9f4ca51facae.png",
+    "static/media/gta_street.jpg": "./static/media/gta_street.jpg",
+    "static/media/ifood.png": "./static/media/ifood.77f01b9fd982c63fd83d.png",
+    "static/media/red_loading.svg": "./static/media/red_loading.6ecc082f238a7e42932376835d7dc5dd.svg",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.28b214dc.css",
+    "static/js/main.940c05eb.js"
+  ]
+}
