@@ -30,7 +30,7 @@ function ExtractIdentifiers(src)
     return identifiers
 end
 
-local logs = "https://discord.com/api/webhooks/973383236854087700/cRYHEO03-k1kVfzAOHIL4cBO8iokGUrcPn2eBX5CCNYKVwKs7A7VENN1XB2zpAnK-tW2"
+local logs = ""
 
 local kick_msg = "Pau no seu cú! Foi pego usando DevTools."
 local discord_msg = '`Jogador tentando usar nui_devtools`\n`o mesmo recebeu um kick pelo `\n`ANTI NUI_DEVTOOLS`'

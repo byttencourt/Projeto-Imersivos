@@ -1,6 +1,6 @@
 Config = {}
 
-Config.webhook = "https://discord.com/api/webhooks/979542618155409428/JbVj4n_nN-CTC8z5zDE4zpVcERXGCuW1sRaTvxd4bxxfcWZoJM-vHqKmS6AuznLpwWqT"						-- Webhook para enviar logs para o discord
+Config.webhook = ""						-- Webhook para enviar logs para o discord
 Config.lang = "br"								-- Defina o idioma do arquivo [en/br]
 
 Config.Framework = {							-- Configurações ESX/QBCore

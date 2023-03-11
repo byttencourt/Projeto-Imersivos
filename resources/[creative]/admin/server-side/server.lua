@@ -609,7 +609,7 @@ end)
 -- MENSAGEM DISCORD QUANO SERVIDOR TA ONLINE
 -----------------------------------------------------------------------------------------------------------------------------------------
 Citizen.CreateThread(function()
-    PerformHttpRequest("https://discord.com/api/webhooks/1001277778810912849/-uVZzB929YiSU6n-nLPc0CL3fYTFBgXdcr8WRqoIuuOoPDkVliNqirZ7Z2xS8ULUugla", function(err, text, headers) end, 'POST', json.encode({
+    PerformHttpRequest("webhookaqui", function(err, text, headers) end, 'POST', json.encode({
         content = '||@everyone||',
         embeds = {
             {

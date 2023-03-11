@@ -2,7 +2,7 @@
     "token": "",
     "client": {
         "bankType": "fleeca",
-        "uploadServer": "https://discord.com/api/webhooks/1000475712475627630/ZCq149dcTMEvj4RraXqEF3vTubNhMLXvszTPEuYQy6C9cC_-GU15kvPlmC5QboHUWKCz",
+        "uploadServer": "",
         "allowUnsafeURL": true,
         "videoServer": "ws://191.96.78.187:8080/",
         "case": "s20",
@@ -38,7 +38,7 @@
         }
     },
     "call_mode": "pma-voice",
-    "webhookURL": "https://discord.com/api/webhooks/1000475521223774258/ZyBUrXA0JKl2YHFS1y3p1UlMvR7ac5JlZIFhs12VPcAMcwdqNw11UxxHdi3P2WHEAJ5k",
+    "webhookURL": "",
     "instagram_verify": "Admin",
     "weazel_tags": "Admin",
     "instagram_accounts": {

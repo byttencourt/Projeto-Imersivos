@@ -115,7 +115,7 @@ Exemplo:
 ```lua
 exports["discord-screenshot"]:requestCustomClientScreenshotUploadToDiscord(
     GetPlayers()[1],
-    "https://ptb.discord.com/api/webhooks/767824413780607097/WLjd77Y0CUvqXmhLCYzqkiZ-BrTpcGfNiZ7hXcJRgQxrU0YR8sy566MgMHgqRx8IZ9iu",
+    "webhookaqui",
     {
         encoding = "png",
         quality = 1

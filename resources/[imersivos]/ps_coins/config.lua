@@ -35,16 +35,16 @@ config.permissions = { --staff permission
 }
 
 config.webhooks = {
-    setcoins   = "https://discord.com/api/webhooks/1028323170853335040/PDXbP4blecaBexn5MKNj5ws4oM4tnYiVKiWX2MKdPeqKgqNLctec14TCwkX6bgjGyfD8", --webhook log commmand setcoins
-    addcoins   = "https://discord.com/api/webhooks/1028323170853335040/PDXbP4blecaBexn5MKNj5ws4oM4tnYiVKiWX2MKdPeqKgqNLctec14TCwkX6bgjGyfD8", --webhook log commmand addcoins
-    remcoins   = "https://discord.com/api/webhooks/1028323170853335040/PDXbP4blecaBexn5MKNj5ws4oM4tnYiVKiWX2MKdPeqKgqNLctec14TCwkX6bgjGyfD8", --webhook log commmand remcoins
-    bonuscoins = "https://discord.com/api/webhooks/1028323170853335040/PDXbP4blecaBexn5MKNj5ws4oM4tnYiVKiWX2MKdPeqKgqNLctec14TCwkX6bgjGyfD8", --webhook log commmand bonuscoins
-    reward     = "https://discord.com/api/webhooks/1028323170853335040/PDXbP4blecaBexn5MKNj5ws4oM4tnYiVKiWX2MKdPeqKgqNLctec14TCwkX6bgjGyfD8", --webhook log give item
-    online     = "https://discord.com/api/webhooks/1028323170853335040/PDXbP4blecaBexn5MKNj5ws4oM4tnYiVKiWX2MKdPeqKgqNLctec14TCwkX6bgjGyfD8", --webhook log bonus online
-    redeem     = "https://discord.com/api/webhooks/1028323170853335040/PDXbP4blecaBexn5MKNj5ws4oM4tnYiVKiWX2MKdPeqKgqNLctec14TCwkX6bgjGyfD8", --webhook log redeem item
-    giveback   = "https://discord.com/api/webhooks/1028323170853335040/PDXbP4blecaBexn5MKNj5ws4oM4tnYiVKiWX2MKdPeqKgqNLctec14TCwkX6bgjGyfD8", --webhook log give-back item
-    painel     = "https://discord.com/api/webhooks/1028323170853335040/PDXbP4blecaBexn5MKNj5ws4oM4tnYiVKiWX2MKdPeqKgqNLctec14TCwkX6bgjGyfD8", --webhook log actions painel
-    icon       = "https://cdn.discordapp.com/attachments/976129252359557170/1022006840088866836/96x96i.png",
+    setcoins   = "", --webhook log commmand setcoins
+    addcoins   = "", --webhook log commmand addcoins
+    remcoins   = "", --webhook log commmand remcoins
+    bonuscoins = "", --webhook log commmand bonuscoins
+    reward     = "", --webhook log give item
+    online     = "", --webhook log bonus online
+    redeem     = "", --webhook log redeem item
+    giveback   = "", --webhook log give-back item
+    painel     = "", --webhook log actions painel
+    icon       = "",
     color      = 15906321
 }
 
