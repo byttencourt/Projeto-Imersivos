@@ -4,12 +4,12 @@
 <p align="center"> <a href="discord.gg/fN8DM9brCN" target="_blank"><img alt="" src="https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white" style="vertical-align:center" /></a> <a href="imersivosrp" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-E4405F?style=normal&logo=instagram&logoColor=white"  </p>
 
 # Descrição
-Com objetivo de desenvolver um Servidor de Roleplay na Plataforma FiveM - GTA5 foi criado o Projeto Imersivos.
+Com objetivo de desenvolver um Servidor de Roleplay na Plataforma FiveM foi desenvolvido o Projeto Imersivos.
 
 # Características
-Utilizando a Framework vRP/Creative a base foi desenvolvida com propósito de ser intuitiva e tornar a interação do Jogador com o Universo FiveM de forma prática e descomplicada.
+Utilizando a Framework vRP/Creative v5 a base foi desenvolvida com propósito de ser intuitiva e tornar a interação do Jogador com o Universo FiveM de forma prática, clara e descomplicada.
 
-Diversas atualizações e melhorias foram aplicadas com a utilização de Soluções disponíveis pela Comunidade do FiveM de forma Gratuita.
+Diversas atualizações e melhorias foram aplicadas com a utilização de Soluções disponíveis pela Comunidade do FiveM.
 
 # Funcionalidades Implementadas
 v1.0
